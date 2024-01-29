@@ -1,0 +1,7 @@
+C:\Users\Arias\source\repos\Paralelo\Paralelo\bin\Debug\Paralelo.exe.config
+C:\Users\Arias\source\repos\Paralelo\Paralelo\bin\Debug\Paralelo.exe
+C:\Users\Arias\source\repos\Paralelo\Paralelo\bin\Debug\Paralelo.pdb
+C:\Users\Arias\source\repos\Paralelo\Paralelo\obj\Debug\Paralelo.csproj.AssemblyReference.cache
+C:\Users\Arias\source\repos\Paralelo\Paralelo\obj\Debug\Paralelo.csproj.CoreCompileInputs.cache
+C:\Users\Arias\source\repos\Paralelo\Paralelo\obj\Debug\Paralelo.exe
+C:\Users\Arias\source\repos\Paralelo\Paralelo\obj\Debug\Paralelo.pdb

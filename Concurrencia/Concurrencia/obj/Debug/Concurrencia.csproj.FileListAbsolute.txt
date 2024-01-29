@@ -1,0 +1,7 @@
+C:\Users\Arias\source\repos\Concurrencia\Concurrencia\bin\Debug\Concurrencia.exe.config
+C:\Users\Arias\source\repos\Concurrencia\Concurrencia\bin\Debug\Concurrencia.exe
+C:\Users\Arias\source\repos\Concurrencia\Concurrencia\bin\Debug\Concurrencia.pdb
+C:\Users\Arias\source\repos\Concurrencia\Concurrencia\obj\Debug\Concurrencia.csproj.AssemblyReference.cache
+C:\Users\Arias\source\repos\Concurrencia\Concurrencia\obj\Debug\Concurrencia.csproj.CoreCompileInputs.cache
+C:\Users\Arias\source\repos\Concurrencia\Concurrencia\obj\Debug\Concurrencia.exe
+C:\Users\Arias\source\repos\Concurrencia\Concurrencia\obj\Debug\Concurrencia.pdb

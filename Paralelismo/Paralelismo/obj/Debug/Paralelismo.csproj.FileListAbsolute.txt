@@ -1,0 +1,10 @@
+C:\Users\Arias\source\repos\Paralelismo\Paralelismo\bin\Debug\Paralelismo.exe.config
+C:\Users\Arias\source\repos\Paralelismo\Paralelismo\bin\Debug\Paralelismo.exe
+C:\Users\Arias\source\repos\Paralelismo\Paralelismo\bin\Debug\Paralelismo.pdb
+C:\Users\Arias\source\repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.csproj.AssemblyReference.cache
+C:\Users\Arias\source\repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.Form1.resources
+C:\Users\Arias\source\repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.Properties.Resources.resources
+C:\Users\Arias\source\repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.csproj.GenerateResource.cache
+C:\Users\Arias\source\repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.csproj.CoreCompileInputs.cache
+C:\Users\Arias\source\repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.exe
+C:\Users\Arias\source\repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.pdb

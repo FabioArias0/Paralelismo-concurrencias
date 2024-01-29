@@ -1,0 +1,7 @@
+C:\Users\Arias\source\repos\Calculos\Calculos\bin\Debug\Calculos.exe.config
+C:\Users\Arias\source\repos\Calculos\Calculos\bin\Debug\Calculos.exe
+C:\Users\Arias\source\repos\Calculos\Calculos\bin\Debug\Calculos.pdb
+C:\Users\Arias\source\repos\Calculos\Calculos\obj\Debug\Calculos.csproj.AssemblyReference.cache
+C:\Users\Arias\source\repos\Calculos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\Arias\source\repos\Calculos\Calculos\obj\Debug\Calculos.exe
+C:\Users\Arias\source\repos\Calculos\Calculos\obj\Debug\Calculos.pdb

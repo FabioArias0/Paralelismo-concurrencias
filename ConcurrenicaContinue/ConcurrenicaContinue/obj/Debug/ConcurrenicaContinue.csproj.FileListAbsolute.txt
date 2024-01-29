@@ -1,0 +1,7 @@
+C:\Users\Arias\source\repos\ConcurrenicaContinue\ConcurrenicaContinue\bin\Debug\ConcurrenicaContinue.exe.config
+C:\Users\Arias\source\repos\ConcurrenicaContinue\ConcurrenicaContinue\bin\Debug\ConcurrenicaContinue.exe
+C:\Users\Arias\source\repos\ConcurrenicaContinue\ConcurrenicaContinue\bin\Debug\ConcurrenicaContinue.pdb
+C:\Users\Arias\source\repos\ConcurrenicaContinue\ConcurrenicaContinue\obj\Debug\ConcurrenicaContinue.csproj.AssemblyReference.cache
+C:\Users\Arias\source\repos\ConcurrenicaContinue\ConcurrenicaContinue\obj\Debug\ConcurrenicaContinue.csproj.CoreCompileInputs.cache
+C:\Users\Arias\source\repos\ConcurrenicaContinue\ConcurrenicaContinue\obj\Debug\ConcurrenicaContinue.exe
+C:\Users\Arias\source\repos\ConcurrenicaContinue\ConcurrenicaContinue\obj\Debug\ConcurrenicaContinue.pdb
